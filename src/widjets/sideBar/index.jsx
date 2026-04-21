@@ -27,7 +27,7 @@ export default function SideBar(){
                 </Link>
               </li>
               <li>
-                <Link href="#" className="lnk">
+                <Link href="/ForKids" className="lnk">
                 for kids
                 </Link>
               </li>

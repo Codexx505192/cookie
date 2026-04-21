@@ -1,5 +1,5 @@
-import CompanyBlock from "@/shared/companyBlock";
-import PartnersBlock from "@/shared/partnersBlock";
+import CompanyBlock from "@/shared/ui/companyBlock";
+import PartnersBlock from "@/shared/ui/partnersBlock";
 import Footer from "@/widjets/footer";
 import Menu from "@/widjets/menu";
 import SideBar from "@/widjets/sideBar";

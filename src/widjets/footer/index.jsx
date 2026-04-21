@@ -29,13 +29,13 @@ export default function Footer(){
               </li>
 
               <li className="li2">
-                <Link href="#" className="lnk4">
+                <Link href="/blog" className="lnk4">
                 Блог
                 </Link>
               </li>
 
               <li className="li2">
-                <Link href="#" className="lnk4">
+                <Link href="/ForKids" className="lnk4">
                 For kids
                 </Link>
               </li>
