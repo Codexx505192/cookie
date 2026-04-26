@@ -33,9 +33,9 @@ export default function SideBar(){
               </li>
              </ul>
 
-             <div className="cart_lgo">
+             <Link href="/basket" className="cart_lgo">
               <img src="./img/cart.svg" alt="cart_logo" />
-             </div>
+             </Link>
              </div>
 
              <div className="sid_bottom">
